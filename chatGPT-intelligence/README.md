@@ -27,11 +27,11 @@ Once the model is trained, serving ChatGPT to millions of users worldwide requir
 
 ChatGPT’s intelligence is especially highlighted in:
 
--   **Explaining concepts clearly** - from complex calculus equations to historical events that happened hundreds of years ago
+-   **Explaining concepts clearly** — from complex calculus equations to historical events that happened hundreds of years ago
     
--   **Brainstorming ideas** - whether it’s helping shape up an approach for a project or creative solutions to everyday problems.
+-   **Brainstorming ideas** — whether it’s helping shape up an approach for a project or creative solutions to everyday problems.
     
--   **Recognizing context** - giving a technical deep dive when asked for details, or a quick summary when you just need the highlights
+-   **Recognizing context** — giving a technical deep dive when asked for details, or a quick summary when you just need the highlights
     
 -   **Switching styles** — it can write a formal business email, a casual text message, a playful bedtime story, etc.
     
